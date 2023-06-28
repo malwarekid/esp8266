@@ -29,7 +29,7 @@ The logic is to create an AP that mimics industrial free WiFi portals through DN
 
 -   Install Arduino IDE version Must be <= 18.16 
 -   Install required libraries and depedencies for ESP8266 [https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide/](https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide "https://randomnerdtutorials.com/how-to-install-esp8266-board-arduino-ide")
--   Install SPIFFS tool for ESP8266 [https://github.com/esp8266/arduino-esp8266fs-plugin](https://github.com/esp8266/arduino-esp8266fs-plugin:// "https://github.com/esp8266/arduino-esp8266fs-plugin")
+-   Install SPIFFS tool for ESP8266 [https://github.com/esp8266/arduino-esp8266fs-plugin](https://github.com/esp8266/arduino-esp8266fs-plugin "https://github.com/esp8266/arduino-esp8266fs-plugin")
 -   Clone this repo and open it in Arduino IDE
 -   Open `esp8266_phising.ino` and change SSID
 -   Open folder `portals/` with your file manager
