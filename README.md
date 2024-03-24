@@ -8,7 +8,7 @@
         /'|_   _/'\ 
         \___)=(___/
         
-        [*] Instagram @scriptkiddiee
+        [*] Instagram @malwarekid
 
 Use this script and the portal templates provided to create malicious WiFi AP'S
 
